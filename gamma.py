@@ -40,7 +40,7 @@ print("Element list", lst)
 
 
 def swap(x, y):
-    temp = x
+    temp = x  # x,y = y,x - simple
     x = y
     y = temp
     print(x, y)

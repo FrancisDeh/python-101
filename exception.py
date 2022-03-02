@@ -33,5 +33,5 @@ def print_name(name: str):
 
 try:
     print_name("a")
-except NameErrorException:
+except NameErrorException:  # as exception
     print("caught")

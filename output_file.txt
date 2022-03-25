@@ -1,0 +1,1 @@
+{"Benedict": ["name"], "Ghana": ["location"], "Football": ["hobby"], "4": ["magic_number"], "Chocolate": ["complexion"], "Male": ["gender"]}

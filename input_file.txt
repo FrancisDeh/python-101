@@ -1,0 +1,1 @@
+{"name": "Benedict", "location": "Ghana", "hobby": "Football", "magic_number": 4, "complexion": "Chocolate", "gender": "Male"}
